@@ -1,0 +1,174 @@
+Code,Country,Name,Official name,Citizen names
+101,AL,Albania,The Republic of Albania,Albanian
+102,AD,Andorra,The Principality of Andorra,Andorran
+103,AT,Austria,The Republic of Austria,Austrian
+104,BE,Belgium,The Kingdom of Belgium,Belgian
+105,BG,Bulgaria,The Republic of Bulgaria,Bulgarian
+107,PL,Poland,The Republic of Poland,Pole
+108,DK,Denmark,The Kingdom of Denmark,Dane
+109,EE,Estonia,The Republic of Estonia,Estonian
+110,FI,Finland,The Republic of Finland,Finn
+111,FR,France,The French Republic,"French citizen, Frenchman, Frenchwoman"
+112,DE,Germany,The Federal Republic of Germany,German
+113,GR,Greece,The Hellenic Republic,Greek
+114,HU,Hungary,Hungary,Hungarian
+115,IS,Iceland,The Republic of Iceland,Icelander
+116,IE,Ireland,Ireland,"Citizen of Ireland, Irish citizen"
+117,IT,Italy,The Italian Republic,Italian
+118,LV,Latvia,The Republic of Latvia,Latvian
+119,LI,Liechtenstein,The Principality of Liechtenstein,Liechtenstein citizen
+120,LT,Lithuania,The Republic of Lithuania,Lithuanian
+121,LU,Luxembourg,The Grand Duchy of Luxembourg,Luxembourger
+122,MC,Monaco,The Principality of Monaco,Monegasque
+123,NL,Netherlands,The Kingdom of the Netherlands,"Dutch citizen, Dutchman, Dutchwoman"
+124,NO,Norway,The Kingdom of Norway,Norwegian
+126,PT,Portugal,The Portuguese Republic,Portuguese
+127,RO,Romania,Romania,Romanian
+128,SM,San Marino,The Republic of San Marino,Citizen of San Marino
+129,ES,Spain,The Kingdom of Spain,"Spaniard, Spanish citizen"
+130,SE,Sweden,The Kingdom of Sweden,Swede
+131,CH,Switzerland,The Swiss Confederation,Swiss
+135,GB,United Kingdom,The United Kingdom of Great Britain and Northern Ireland,"Briton, British citizen"
+141,SK,Slovakia,The Slovak Republic,Slovak
+145,MT,Malta,The Republic of Malta,Maltese
+151,AM,Armenia,The Republic of Armenia,Armenian
+152,AZ,Azerbaijan,The Republic of Azerbaijan,Azerbaijani
+153,BY,Belarus,The Republic of Belarus,Belarusian
+154,GE,Georgia,Georgia,Georgian
+155,KZ,Kazakhstan,The Republic of Kazakhstan,Kazakh
+156,KG,Kyrgyzstan,The Kyrgyz Republic,Kyrgyz
+157,MD,Moldova,The Republic of Moldova,Moldovan
+158,RU,Russia,The Russian Federation,Russian
+159,TJ,Tajikistan,The Republic of Tajikistan,Tajik
+161,TM,Turkmenistan,Turkmenistan,Turkmen
+162,UA,Ukraine,Ukraine,Ukrainian
+163,UZ,Uzbekistan,The Republic of Uzbekistan,Uzbek
+165,HR,Croatia,The Republic of Croatia,Croatian
+166,SI,Slovenia,The Republic of Slovenia,Slovene
+203,LA,Laos,The Lao People's Democratic Republic,Lao
+204,ID,Indonesia,The Republic of Indonesia,Indonesian
+207,SG,Singapore,The Republic of Singapore,Singaporean
+209,JP,Japan,Japan,Japanese
+213,IN,India,The Republic of India,Indian
+216,YE,Yemen,The Republic of Yemen,Yemeni
+217,BN,Brunei,Brunei Darussalam,Citizen of Brunei
+218,CY,Cyprus,The Republic of Cyprus,Cypriot
+220,MV,Maldives,The Republic of Maldives,Maldivian
+236,AF,Afghanistan,The Islamic Republic of Afghanistan,Afghan
+240,TL,East Timor,The Democratic Republic of Timor-Leste,East Timorese
+242,BT,Bhutan,The Kingdom of Bhutan,Bhutanese
+244,LK,Sri Lanka,The Democratic Socialist Republic of Sri Lanka,Citizen of Sri Lanka
+249,IR,Iran,The Islamic Republic of Iran,Iranian
+250,IQ,Iraq,The Republic of Iraq,Iraqi
+251,IL,Israel,The State of Israel,Israeli
+253,JO,Jordan,The Hashemite Kingdom of Jordan,Jordanian
+255,LB,Lebanon,The Lebanese Republic,Lebanese
+256,OM,Oman,The Sultanate of Oman,Omani
+257,NP,Nepal,The Federal Democratic Republic of Nepal,Nepalese
+258,PK,Pakistan,The Islamic Republic of Pakistan,Pakistani
+260,PH,Philippines,The Republic of the Philippines,"Filipino, Filipina"
+261,SA,Saudi Arabia,The Kingdom of Saudi Arabia,Saudi Arabian
+262,SY,Syria,The Syrian Arab Republic,Syrian
+263,TH,Thailand,The Kingdom of Thailand,Thai
+264,TR,Turkey,The Republic of Turkey,Turk
+266,VN,Vietnam,The Socialist Republic of Vietnam,Vietnamese
+272,KW,Kuwait,The State of Kuwait,Kuwaiti
+273,MY,Malaysia,Malaysia,Citizen of Malaysia
+274,BD,Bangladesh,The People's Republic of Bangladesh,Bangladeshi
+275,KP,North Korea,The Democratic People's Republic of Korea,"Citizen of the Democratic People's Republic of Korea, Citizen of the DPRK"
+276,KR,South Korea,The Republic of Korea,South Korean
+296,AE,United Arab Emirates,The United Arab Emirates,Citizen of the United Arab Emirates
+297,QA,Qatar,The State of Qatar,Qatari
+298,BH,Bahrain,The Kingdom of Bahrain,Bahraini
+299,MN,Mongolia,Mongolia,Mongolian
+304,TG,Togo,The Togolese Republic,Togolese
+310,CM,Cameroon,The Republic of Cameroon,Cameroonian
+315,ZW,Zimbabwe,The Republic of Zimbabwe,Zimbabwean
+316,DZ,Algeria,The People's Democratic Republic of Algeria,Algerian
+317,KM,Comoros,The Union of the Comoros,Comoran
+320,MG,Madagascar,The Republic of Madagascar,Citizen of Madagascar
+322,DJ,Djibouti,The Republic of Djibouti,Djiboutian
+323,TN,Tunisia,The Tunisian Republic,Tunisian
+324,AO,Angola,The Republic of Angola,Angolan
+326,CV,Cape Verde,The Republic of Cabo Verde,Cape Verdean
+327,GW,Guinea-Bissau,The Republic of Guinea-Bissau,Citizen of Guinea-Bissau
+329,MZ,Mozambique,The Republic of Mozambique,Mozambican
+330,ST,Sao Tome and Principe,The Democratic Republic of Sao Tome and Principe,Citizen of Sao Tome and Principe
+332,MA,Morocco,The Kingdom of Morocco,Moroccan
+335,LS,Lesotho,The Kingdom of Lesotho,Citizen of Lesotho
+336,BW,Botswana,The Republic of Botswana,Citizen of Botswana
+339,GH,Ghana,The Republic of Ghana,Ghanaian
+340,KE,Kenya,The Republic of Kenya,Kenyan
+342,MU,Mauritius,The Republic of Mauritius,Mauritian
+343,NG,Nigeria,The Federal Republic of Nigeria,Nigerian
+344,ZM,Zambia,The Republic of Zambia,Zambian
+345,MW,Malawi,The Republic of Malawi,Malawian
+347,SC,Seychelles,The Republic of Seychelles,Citizen of Seychelles
+348,SL,Sierra Leone,The Republic of Sierra Leone,Sierra Leonean
+350,SD,Sudan,The Republic of the Sudan,Sudanese
+352,UG,Uganda,The Republic of Uganda,Ugandan
+353,TZ,Tanzania,The United Republic of Tanzania,Tanzanian
+368,EG,Egypt,The Arab Republic of Egypt,Egyptian
+369,ET,Ethiopia,The Federal Democratic Republic of Ethiopia,Ethiopian
+370,LR,Liberia,The Republic of Liberia,Liberian
+372,ER,Eritrea,The State of Eritrea,Eritrean
+373,ZA,South Africa,The Republic of South Africa,South African
+375,BI,Burundi,The Republic of Burundi,Citizen of Burundi
+376,RW,Rwanda,The Republic of Rwanda,Rwandan
+381,LY,Libya,Libya,Libyan
+382,GN,Guinea,The Republic of Guinea,Guinean
+383,CF,Central African Republic,The Central African Republic,Citizen of the Central African Republic
+384,TD,Chad,The Republic of Chad,Chadian
+385,CG,Congo,The Republic of the Congo,Citizen of the Republic of the Congo
+386,BJ,Benin,The Republic of Benin,Beninese
+387,GA,Gabon,The Gabonese Republic,Gabonese
+388,CI,Ivory Coast,The Republic of Côte DIvoire,Citizen of the Ivory Coast
+389,MR,Mauritania,The Islamic Republic of Mauritania,Mauritanian
+390,NE,Niger,The Republic of Niger,Citizen of Niger
+391,SN,Senegal,The Republic of Senegal,Senegalese
+392,ML,Mali,The Republic of Mali,Malian
+393,BF,Burkina Faso,Burkina Faso,"Burkinabe, Burkinan"
+397,SO,Somalia,Federal Republic of Somalia,Somali
+399,GQ,Equatorial Guinea,The Republic of Equatorial Guinea,Equatorial Guinean
+410,VU,Vanuatu,The Republic of Vanuatu,Citizen of Vanuatu
+412,SB,Solomon Islands,Solomon Islands,Solomon Islander
+413,FJ,Fiji,The Republic of Fiji,Citizen of Fiji
+414,KI,Kiribati,The Republic of Kiribati,Citizen of Kiribati
+417,TO,Tonga,The Kingdom of Tonga,Tongan
+420,TV,Tuvalu,Tuvalu,Tuvaluan
+438,AU,Australia,The Commonwealth of Australia,Australian
+440,NR,Nauru,The Republic of Nauru,Nauruan
+441,PG,Papua New Guinea,The Independent State of Papua New Guinea,Papua New Guinean
+464,NZ,New Zealand,New Zealand,New Zealander
+472,MH,Marshall Islands,The Republic of the Marshall Islands,Marshall Islander
+474,PW,Palau,The Republic of Palau,Palauan
+504,PA,Panama,The Republic of Panama,Panamanian
+513,BB,Barbados,Barbados,Barbadian
+514,JM,Jamaica,Jamaica,Jamaican
+516,TT,Trinidad and Tobago,The Republic of Trinidad and Tobago,Trinidad and Tobago citizen
+519,DM,Dominica,The Commonwealth of Dominica,Dominican
+520,GD,Grenada,Grenada,Grenadian
+528,HN,Honduras,The Republic of Honduras,Honduran
+575,CR,Costa Rica,The Republic of Costa Rica,Costa Rican
+576,SV,El Salvador,The Republic of El Salvador,Salvadorean
+577,GT,Guatemala,The Republic of Guatemala,Guatemalan
+579,NI,Nicaragua,The Republic of Nicaragua,Nicaraguan
+581,BZ,Belize,Belize,Citizen of Belize
+584,CU,Cuba,The Republic of Cuba,Cuban
+585,DO,Dominican Republic,The Dominican Republic,Citizen of the Dominican Republic
+586,HT,Haiti,The Republic of Haiti,Haitian
+602,SR,Suriname,The Republic of Suriname,Surinamer
+603,GY,Guyana,The Co-operative Republic of Guyana,Guyanese
+687,AR,Argentina,The Argentine Republic,"Argentine, Argentinian"
+688,BO,Bolivia,The Plurinational State of Bolivia,Bolivian
+689,BR,Brazil,The Federative Republic of Brazil,Brazilian
+690,CL,Chile,The Republic of Chile,Chilean
+691,CO,Colombia,The Republic of Colombia,Colombian
+692,EC,Ecuador,The Republic of Ecuador,Ecuadorean
+693,PY,Paraguay,The Republic of Paraguay,Paraguayan
+694,PE,Peru,The Republic of Peru,Peruvian
+695,UY,Uruguay,The Oriental Republic of Uruguay,Uruguayan
+696,VE,Venezuela,The Bolivarian Republic of Venezuela,Venezuelan
+732,XK,Kosovo,The Republic of Kosovo,Kosovan
+735,ME,Montenegro,Montenegro,Montenegrin
+745,RS,Serbia,The Republic of Serbia,Serbian
